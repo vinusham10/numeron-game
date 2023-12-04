@@ -4,4 +4,3 @@ let x = document.getElementById("play-button");
   x.onclick = () => {
     window.location.href = "game.html";
   };
-  
